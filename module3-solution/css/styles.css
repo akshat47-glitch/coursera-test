@@ -17,6 +17,10 @@
 
 }
 
+#nav-list hr{
+	margin: 0;
+}
+
 @media (max-width: 768px){
 	#collapsable-nav{
 		background: white;
