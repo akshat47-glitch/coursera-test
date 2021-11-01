@@ -1,0 +1,29 @@
+#header-nav{
+	background-color: #E5DCC3;
+}
+
+#nav-list{
+	text-align: center;
+	background: white;
+}
+
+#navbar-brand{
+	color: black;
+}
+
+#chicken-box{
+	background-color: #E5DCC3;
+	height: 1000px;
+
+}
+
+@media (max-width: 768px){
+	#collapsable-nav{
+		background: white;
+	}
+
+	#chicken-box{
+		margin: 0px 10% 0 10%;
+		height: auto;
+	}
+}
